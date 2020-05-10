@@ -6,6 +6,6 @@ public class TestMin {
         System.out.println("李大炮");
         System.out.println("李大炮");
         System.out.println("李大炮");
-        System.out.println("周凡程");
+        System.out.println("渣渣辉");
     }
 }
